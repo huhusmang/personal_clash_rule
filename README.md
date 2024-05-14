@@ -1,0 +1,1 @@
+# personal_clash_rule
